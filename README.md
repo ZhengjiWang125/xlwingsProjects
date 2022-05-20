@@ -1,5 +1,5 @@
 # xlwingsProjects
-Small projects for xlwings practice
+Small projects for xlwings practice found on udemy
 
 
 # Project 1:
