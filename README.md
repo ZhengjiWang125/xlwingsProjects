@@ -5,6 +5,8 @@ Small projects for xlwings practice found on udemy
 # Project 1:
 Use Monte Carlos Simulation to estimate estate price
 
+real_estate.xlsm, simulation.py
+
 # Project 2:
 Dashboard apps with excel(GUI) and Python(backend)
 
