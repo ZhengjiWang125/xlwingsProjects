@@ -10,5 +10,7 @@ real_estate.xlsm, simulation.py
 # Project 2:
 Dashboard apps with excel(GUI) and Python(backend)
 
+stocks.xlsx, stocks.py
+
 # Project 3:
 Pandas UDFs in Excel for DS and Finance
