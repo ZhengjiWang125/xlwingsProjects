@@ -14,3 +14,5 @@ stocks.xlsx, stocks.py
 
 # Project 3:
 Pandas UDFs in Excel for DS and Finance
+
+Pandas_UDFs.py,Pandas_UDFs.xlsm
